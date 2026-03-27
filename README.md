@@ -17,8 +17,9 @@
 
 - 🌱 Keep learning and building every day.
 - 📝 Bio: 花有重开日，人无再少年。
-- 🌏 Timezone: Asia/Nanning
+- 🌏 Timezone: GuangXi Nanning
 - 🔗 GitHub: [@zkite626](https://github.com/zkite626)
+- 📫 Email: [jiyuan26@icloud.com](mailto:l1fuyue@icloud.com")
 
 ## 🧰 Tech Stack
 
@@ -33,7 +34,3 @@
 ## 📊 Metrics
 
 ![Metrics](./github-metrics.svg)
-
----
-
-<p align="center">Powered by <a href="https://github.com/lowlighter/metrics">lowlighter/metrics</a></p>
