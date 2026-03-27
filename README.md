@@ -16,7 +16,7 @@
 - 📝 Bio: 花有重开日，人无再少年。
 - 🌏 Timezone: GuangXi Nanning
 - 🔗 GitHub: [@zkite626](https://github.com/zkite626)
-- 📫 Email: [jiyuan26@icloud.com](mailto:l1fuyue@icloud.com")
+- 📫 Email: [jiyuan26@icloud.com](mailto:jiyuan26@icloud.com)
 
 ## 🧰 Tech Stack
 
@@ -30,4 +30,11 @@
 
 ## 📊 Metrics
 
-![Metrics](./github-metrics.svg)
+### Overview
+![Overview](./github-metrics-base.svg)
+
+### Languages
+![Languages](./github-metrics-languages.svg)
+
+### Isocalendar
+![Isocalendar](./github-metrics-isocalendar.svg)
